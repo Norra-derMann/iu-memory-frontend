@@ -1,17 +1,17 @@
-.app {
-  text-align: center;
-}
 .app-grid {
   margin-left: auto;
   margin-right: auto;
   width: 100%;
-  max-width: calc(100% - 40vw);
-  background-color: aqua;
+  max-width: calc(100% - 30rem);
 }
-
 .img-iu {
   max-width: 100vw;
   margin-left: auto;
   margin-right: auto;
   width: 100%;
+}
+
+.img-iu:hover {
+  border: 10px solid red;
+  cursor: pointer;
 }
