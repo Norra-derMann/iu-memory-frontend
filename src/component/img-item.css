@@ -1,0 +1,20 @@
+.iupic-item {
+    border: 5px solid plum;
+  }
+  .iupic-item img {
+    display: block;
+    width: 100%;
+  }
+  
+  .iupic-item img:hover {
+    cursor: pointer;
+  }
+  
+  .iupic-item img {
+    display: block;
+    width: 100%;
+  }
+  
+  .iupic-item h4 {
+    text-align: center;
+  }
