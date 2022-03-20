@@ -1,10 +1,10 @@
 export const Piciu = [
     {
-    title: "IU-1",
+    title: "IU-1-cute",
     thumbnailUrl: "/images/iu-wallpapers-1.jpg"
     },
     {
-    title: "IU-2",
+    title: "IU-2-cute",
     thumbnailUrl: "/images/iu-wallpapers-2.jpg"
     },
     {
@@ -16,11 +16,11 @@ export const Piciu = [
     thumbnailUrl: "/images/iu-wallpapers-4.jpg"
     },
     {
-    title: "IU-5",
+    title: "IU-5-cheerup",
     thumbnailUrl: "/images/iu-wallpapers-5.jpg"
     },
     {
-    title: "IU-6",
+    title: "IU-6-jestina",
     thumbnailUrl: "/images/iu-wallpapers-6.jpg"
     },
 ]

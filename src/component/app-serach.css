@@ -1,0 +1,21 @@
+.app-search {
+    padding-bottom: 0.5rem;
+    box-sizing: border-box;
+}
+
+.app-search-input {
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 1.5rem;
+    border: 1px solid gainsboro;
+    border-radius: 1.4rem;
+}
+
+.app-search-input:focus {
+    outline: none;
+    border: 2px solid plum;
+}
+
+.app-search-input:focus::placeholder {
+    color: transparent;
+}
